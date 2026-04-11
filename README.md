@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Siddiqa Mulla
 
-<!--
-**Siddiqa-07/Siddiqa-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 DevOps Engineer  
+🚀 Kubernetes | Docker | GitLab CI/CD  
 
-Here are some ideas to get you started:
+---
+## 🔧 Skills 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud Platforms
+- AWS (EC2, S3, IAM, VPC, EKS, Load Balancer, CloudWatch)
+
+### 🐳 Containerization & Orchestration
+- Docker
+- Kubernetes
+- Helm
+- kubectl
+- Ingress
+
+### 🔄 CI/CD
+- GitLab CI/CD
+- Jenkins
+- GitHub Actions
+
+### 🏗️ Infrastructure as Code
+- Terraform
+- Ansible
+
+### 🔐 DevSecOps
+- Trivy
+- SonarQube
+- OWASP Dependency-Check
+
+### 📊 Monitoring & Observability
+- Prometheus
+- Grafana
+
+### 💻 Programming & Scripting
+- Shell Scripting
+- YAML
+- Python
+- C++
+
+### 🌐 Networking
+- DNS
+- TCP/IP
+
+### 🧰 Tools
+- Git
+- Jira
+
