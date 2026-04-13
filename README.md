@@ -1,7 +1,6 @@
 # Hi, I'm Siddiqa Mulla
 
 💻 DevOps Engineer  
-🚀 Kubernetes | Docker | GitLab CI/CD  
 
 ---
 ## 🔧 Skills 🛠️
