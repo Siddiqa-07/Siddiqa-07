@@ -48,3 +48,25 @@
 - Git
 - Jira
 
+---
+
+## 📂 Projects 🚀
+
+### 🎬 BookMyShow DevOps Project
+End-to-end deployment using Docker, Kubernetes (EKS), CI/CD, Monitoring  
+👉  https://github.com/Siddiqa-07/bookmyshow-devops-project
+
+---
+
+### ☁️ AWS 3-Tier Architecture
+Deployed scalable architecture using EC2, Load Balancer, and RDS  
+👉 https://github.com/Siddiqa-07/project3TierArchitecture
+
+---
+
+## 📫 Contact
+
+- [💼 LinkedIn](https://www.linkedin.com/in/siddiqa-mulla-b78497221)
+- [📧 Email](ersiddiqa7@gmail.com)
+  
+
